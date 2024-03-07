@@ -1,7 +1,3 @@
-Title: Movie Database Project
-
-Description:
-
 This project was developed as part of the Prototyping course, aiming to create a comprehensive movie database application. The primary goal was to demonstrate the integration of various technologies and frameworks to construct a fully functional web application.
 
 Key Features and Technologies:
